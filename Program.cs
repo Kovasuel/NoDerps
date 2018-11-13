@@ -16,7 +16,7 @@ namespace NoDerps
                 .UseStartup<Startup>()
 
                 // params string[] urls
-                .UseUrls(urls: "https://10.142.0.2:5001");
+                .UseUrls(urls: "https://10.142.0.3:5001");
 
                 //.Build();
     }
