@@ -5170,7 +5170,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
+      "sha512": "sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "files": [
@@ -11501,28 +11501,30 @@
     ]
   },
   "packageFolders": {
-    "/home/lguinn/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Eddie\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lguinn/NoDerps/NoDerps.csproj",
+      "projectUniqueName": "C:\\Users\\Eddie\\Documents\\GitHub\\NoDerps\\NoDerps.csproj",
       "projectName": "NoDerps",
-      "projectPath": "/home/lguinn/NoDerps/NoDerps.csproj",
-      "packagesPath": "/home/lguinn/.nuget/packages/",
-      "outputPath": "/home/lguinn/NoDerps/obj/",
+      "projectPath": "C:\\Users\\Eddie\\Documents\\GitHub\\NoDerps\\NoDerps.csproj",
+      "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eddie\\Documents\\GitHub\\NoDerps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/lguinn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
