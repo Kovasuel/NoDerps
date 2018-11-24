@@ -37,7 +37,6 @@ C:\Users\Eddie\Documents\GitHub\NoDerps\bin\Release\netcoreapp2.1\NoDerps.dll
 C:\Users\Eddie\Documents\GitHub\NoDerps\bin\Release\netcoreapp2.1\NoDerps.pdb
 C:\Users\Eddie\Documents\GitHub\NoDerps\bin\Release\netcoreapp2.1\NoDerps.Views.dll
 C:\Users\Eddie\Documents\GitHub\NoDerps\bin\Release\netcoreapp2.1\NoDerps.Views.pdb
-C:\Users\Eddie\Documents\GitHub\NoDerps\obj\Release\netcoreapp2.1\NoDerps.csprojAssemblyReference.cache
 C:\Users\Eddie\Documents\GitHub\NoDerps\obj\Release\netcoreapp2.1\NoDerps.csproj.CoreCompileInputs.cache
 C:\Users\Eddie\Documents\GitHub\NoDerps\obj\Release\netcoreapp2.1\NoDerps.RazorAssemblyInfo.cache
 C:\Users\Eddie\Documents\GitHub\NoDerps\obj\Release\netcoreapp2.1\NoDerps.RazorAssemblyInfo.cs
