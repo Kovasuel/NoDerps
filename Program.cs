@@ -16,7 +16,8 @@ namespace NoDerps
                 .UseStartup<Startup>()
 
                 // params string[] urls
-                //.UseUrls(urls: "https://10.142.0.3:5001");
+                //Was previously specific: .UseUrls(urls: "https://10.142.0.3:5001");
+                //Set to use all on the port so that it will all get fed into the rev. proxy.
                 .UseUrls(urls: "https://*:5001");
 
                 //.Build();
